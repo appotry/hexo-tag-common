@@ -1,6 +1,6 @@
 {
-  "name": "hexo-tag-common",
-  "version": "0.2.0",
+  "name": "hexo-tag-common-new",
+  "version": "0.2.1",
   "description": "Common tags for hexo.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YunYouJun/hexo-tag-common.git"
+    "url": "git+https://github.com/appotry/hexo-tag-common.git"
   },
   "author": {
     "name": "YunYouJun",

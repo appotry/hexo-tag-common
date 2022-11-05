@@ -5,6 +5,8 @@
 
 Common tags for hexo.
 
+> 自定义修改版，css需要手动插入，方便调整性能优化
+
 > Demo: [tag-common | yun](https://www.yunyoujun.cn/yun/tag-common.html)
 
 ## Install
