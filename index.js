@@ -46,8 +46,8 @@ const scriptTag = `<script src="${jsSrc}"></script>`;
  * @param {'default' | 'home' | 'post' | 'page' | 'archive' | 'category' | 'tag'} layout
  */
 function insertToLayout(layout) {
-  //hexo.extend.injector.register("head_begin", linkTag, layout);
-  hexo.extend.injector.register("body_end", scriptTag, layout);
+  // hexo.extend.injector.register("head_begin", linkTag, layout);
+  // hexo.extend.injector.register("body_end", scriptTag, layout);
 }
 
 if (Array.isArray(config.layout)) {
