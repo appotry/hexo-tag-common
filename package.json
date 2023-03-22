@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-common-new",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Common tags for hexo.",
   "main": "index.js",
   "scripts": {
@@ -16,15 +16,13 @@
     "url": "git+https://github.com/appotry/hexo-tag-common.git"
   },
   "author": {
-    "name": "YunYouJun",
-    "email": "me@yunyoujun.cn",
-    "url": "https://www.yunyoujun.cn"
+    "name": "appotry",
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YunYouJun/hexo-tag-common/issues"
+    "url": "https://github.com/appotry/hexo-tag-common/issues"
   },
-  "homepage": "https://github.com/YunYouJun/hexo-tag-common#readme",
+  "homepage": "https://github.com/appotry/hexo-tag-common#readme",
   "devDependencies": {
     "eslint": "^8.15.0",
     "eslint-config-prettier": "^8.5.0",
